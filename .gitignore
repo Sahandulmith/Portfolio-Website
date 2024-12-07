@@ -11,8 +11,8 @@
 # production
 /build
 /server.js
-/src\assets\cv
-/server.js
+/src/assets/cv
+
 
 # misc
 .DS_Store
