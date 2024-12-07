@@ -23,7 +23,7 @@ export const Projects = () => {
     },
     {
       title: "E-Commerce Web Site",
-      description: "Design & Development",
+      description: "Project Based on HTML",
       imgUrl: projImg2,
       githubUrl: "https://github.com/Sahandulmith/HTML-Project",
       youtubeUrl: "https://youtu.be/3j4SF0fYYTM?si=5C4edcPWFz0KGkqd",
@@ -37,7 +37,7 @@ export const Projects = () => {
     },
     {
       title: "Vating System",
-      description: "Design & Development",
+      description: "Project Based on PHP",
       imgUrl: projImg4,
       githubUrl: "https://github.com/Sahandulmith/Voting-System",
       youtubeUrl: "https://youtu.be/03Rv1aYcAHY?si=RZFmUTWyM9LnYi4J",
@@ -59,7 +59,7 @@ export const Projects = () => {
       title: "Portfolio Website",
       description: "Project Based on React",
       imgUrl: projImg7,
-      githubUrl: "https://github.com/Sahandulmith/PYTHON",
+      githubUrl: "https://github.com/Sahandulmith/Portfolio-Website",
       youtubeUrl: "https://youtu.be/I9bLac3rFQ0",
     },
   ];
@@ -113,7 +113,7 @@ export const Projects = () => {
       title: "Portfolio Website",
       description: "Project Based on React",
       imgUrl: projImg7,
-      githubUrl: "https://github.com/Sahandulmith/PYTHON",
+      githubUrl: "https://github.com/Sahandulmith/Portfolio-Website",
       youtubeUrl: "https://youtu.be/I9bLac3rFQ0",
     },
   ];
