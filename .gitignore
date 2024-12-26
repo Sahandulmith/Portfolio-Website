@@ -12,8 +12,8 @@
 /build
 /server.js
 /src/assets
-/src/components/Contact
-/src/components/Newsletter
+/src/components/Contact.js
+/src/components/Newsletter.js
 
 
 # misc
