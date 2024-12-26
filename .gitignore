@@ -11,9 +11,9 @@
 # production
 /build
 /server.js
-/src/assets
-/src/components/Contact.js
-/src/components/Newsletter.js
+src/assets
+src/components/Contact.js
+src/components/Newsletter.js
 
 
 # misc
