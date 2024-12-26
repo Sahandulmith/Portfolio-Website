@@ -11,7 +11,7 @@ export const Banner = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = [ "Front End Developer", "Back End Developer" ];
+  const toRotate = [ "Full-Stack Developer", "Front-End Developer", "Back-End Developer" ];
   const period = 2000;
 
   useEffect(() => {
@@ -56,7 +56,7 @@ export const Banner = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
-                <h1>{`Hi! I'm Sahan Dulmith `} <br /><span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Front End Developer", "Back End Developer"]'><span className="wrap">{text}</span></span></h1>
+                <h1>{`Hi! I'm Sahan Dulmith `} <br /><span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Full-Stack Developer", "Front-End Developer", "Back-End Developer"]'><span className="wrap">{text}</span></span></h1>
                   <p>Backend-Focused Full-Stack Developer passionate about building scalable and efficient applications. Skilled in Node.js, React, Next.js, and MySQL, with a strong foundation in frontend technologies such as HTML, CSS, and JavaScript. Dedicated to creating seamless, user-centered experiences that blend functionality with visual appeal. Focused on developing high-performing solutions that meet user needs while maintaining a focus on design and usability.</p>
                   <button onClick={() => window.location.href = '#connect'}>
   Let’s Connect <ArrowRightCircle size={25} />
