@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Website/static/css/main.cd611e77.css",
-    "main.js": "/Portfolio-Website/static/js/main.bb2189e8.js",
+    "main.js": "/Portfolio-Website/static/js/main.0ecec89c.js",
     "static/js/787.fb771931.chunk.js": "/Portfolio-Website/static/js/787.fb771931.chunk.js",
     "static/media/file1.jpg": "/Portfolio-Website/static/media/file1.4114ad352100bfcc24cb.jpg",
     "static/media/IMG-20240809-WA0102~2.jpg": "/Portfolio-Website/static/media/IMG-20240809-WA0102~2.ec8a947824a55f62feaa.jpg",
@@ -15,6 +15,7 @@
     "static/media/CentraNo2-Medium.ttf": "/Portfolio-Website/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Portfolio-Website/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/php.jpg": "/Portfolio-Website/static/media/php.e6952da15c195ba1ec7e.jpg",
+    "static/media/adopt.jpg": "/Portfolio-Website/static/media/adopt.a2315e76d28656d31eee.jpg",
     "static/media/villa.jpg": "/Portfolio-Website/static/media/villa.8177dc928fce234ccd6d.jpg",
     "static/media/footer-bg.png": "/Portfolio-Website/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/sql-server.png": "/Portfolio-Website/static/media/sql-server.a4ba4125aadc50241c26.png",
@@ -45,11 +46,11 @@
     "static/media/foot-icon2.svg": "/Portfolio-Website/static/media/foot-icon2.7312e61add6769ee6b3465f4eb2e1278.svg",
     "static/media/foot-icon1.svg": "/Portfolio-Website/static/media/foot-icon1.f659d76c711684e18891dfe4d1945c91.svg",
     "main.cd611e77.css.map": "/Portfolio-Website/static/css/main.cd611e77.css.map",
-    "main.bb2189e8.js.map": "/Portfolio-Website/static/js/main.bb2189e8.js.map",
+    "main.0ecec89c.js.map": "/Portfolio-Website/static/js/main.0ecec89c.js.map",
     "787.fb771931.chunk.js.map": "/Portfolio-Website/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd611e77.css",
-    "static/js/main.bb2189e8.js"
+    "static/js/main.0ecec89c.js"
   ]
 }
